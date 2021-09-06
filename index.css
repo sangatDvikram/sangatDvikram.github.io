@@ -1,0 +1,1982 @@
+.mediaViewInfo {
+	--web-view-name: Custom Size – 2;
+	--web-view-id: Custom_Size__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Custom_Size__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Custom_Size__2 {
+	position: absolute;
+	width: 793.701px;
+	height: 1122.52px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Custom Size – 2;
+	--web-view-id: Custom_Size__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Left_side {
+	fill: rgba(255,255,255,1);
+}
+.Left_side {
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 1123px;
+	left: 0px;
+	top: 0px;
+}
+#Right_Side {
+	fill: transparent;
+}
+.Right_Side {
+	position: absolute;
+	overflow: visible;
+	width: 480px;
+	height: 1075px;
+	left: 289px;
+	top: 24px;
+}
+#Group_5 {
+	position: absolute;
+	width: 347px;
+	height: 60px;
+	left: 314px;
+	top: 24px;
+	overflow: visible;
+}
+#Vikram_Sangat {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Web_full_stack_developer_-_Rea {
+	opacity: 0.62;
+	left: 0px;
+	top: 43px;
+	position: absolute;
+	overflow: visible;
+	width: 348px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Title {
+	position: absolute;
+	width: 72px;
+	height: 34px;
+	left: 314px;
+	top: 90px;
+	overflow: visible;
+}
+#Profile {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 1px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#With_over_5_years_of_experienc {
+	left: 339px;
+	top: 132px;
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	height: 86px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 152px;
+	height: 149px;
+	left: 69px;
+	top: 44px;
+	overflow: visible;
+}
+#Group_6 {
+	position: absolute;
+	width: 242px;
+	height: 150px;
+	left: 24px;
+	top: 220px;
+	overflow: visible;
+}
+#Title_s {
+	position: absolute;
+	width: 83px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Contact {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Line_1_u {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_u {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 1px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2 {
+	position: absolute;
+	width: 87.882px;
+	height: 18px;
+	left: 0px;
+	top: 42px;
+	overflow: visible;
+}
+#MDI__phone-outline {
+	opacity: 0.6;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Boundary {
+	opacity: 0;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Boundary {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+#Path__phone-outline {
+	fill: rgba(0,0,0,1);
+}
+.Path__phone-outline {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 3px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_503415652 {
+	left: 26.882px;
+	top: 2px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Component_1__2 {
+	position: absolute;
+	width: 139.882px;
+	height: 18px;
+	left: 0px;
+	top: 68px;
+	overflow: visible;
+}
+#vsangat98gmailcom {
+	left: 26.882px;
+	top: 2px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#MDI__email-outline {
+	opacity: 0.6;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Boundary_ {
+	opacity: 0;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Boundary_ {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+#Path__email-outline {
+	fill: rgba(0,0,0,1);
+}
+.Path__email-outline {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 10px;
+	left: 2px;
+	top: 4px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_3 {
+	position: absolute;
+	width: 102.182px;
+	height: 18px;
+	left: 2.909px;
+	top: 94px;
+	overflow: visible;
+}
+#Bangalore_India {
+	left: 23.182px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#MDI__map-marker {
+	opacity: 0.6;
+	position: absolute;
+	width: 12.6px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path__map-marker {
+	fill: rgba(0,0,0,1);
+}
+.Path__map-marker {
+	overflow: visible;
+	position: absolute;
+	width: 12.6px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_4 {
+	position: absolute;
+	width: 241px;
+	height: 30px;
+	left: 1px;
+	top: 120px;
+	overflow: visible;
+}
+#httpswwwlinkedincominvikram-sa {
+	left: 24px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 30px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#MDI__linkedin {
+	opacity: 0.6;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Boundary_bc {
+	opacity: 0;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Boundary_bc {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+#Path__linkedin {
+	fill: rgba(0,0,0,1);
+}
+.Path__linkedin {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 3px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Title_be {
+	position: absolute;
+	width: 118px;
+	height: 34px;
+	left: 314px;
+	top: 220px;
+	overflow: visible;
+}
+#Experience {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Line_1_bg {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_bg {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 1px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Title_bh {
+	position: absolute;
+	width: 81px;
+	height: 34px;
+	left: 24px;
+	top: 689px;
+	overflow: visible;
+}
+#Patents {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Line_1_bj {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_bj {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 1px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#System_and_method_for_determin {
+	left: 48px;
+	top: 741px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	height: 31px;
+	line-height: 18px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#Display_screen_with_transition {
+	left: 48px;
+	top: 791px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	height: 31px;
+	line-height: 18px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#Group_9 {
+	position: absolute;
+	width: 241px;
+	height: 61px;
+	left: 24px;
+	top: 841px;
+	overflow: visible;
+}
+#Title_bn {
+	position: absolute;
+	width: 132px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Certification {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Line_1_bp {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_bp {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 1px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Online_Game_ {
+	left: 24px;
+	top: 47px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 14px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Group_23 {
+	position: absolute;
+	width: 242px;
+	height: 98px;
+	left: 24px;
+	top: 572px;
+	overflow: visible;
+}
+#Group_8 {
+	position: absolute;
+	width: 242px;
+	height: 98px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Title_bt {
+	position: absolute;
+	width: 107px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Education {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Line_1_bv {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_bv {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 1px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Education_bw {
+	position: absolute;
+	width: 218px;
+	height: 45px;
+	left: 24px;
+	top: 53px;
+	overflow: visible;
+}
+#Bachelor_of_Engineering_Comput {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 14px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Jhulelal_Instutute_Of_technolo {
+	left: 1px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 13px;
+	line-height: 18px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+#n_008-2012 {
+	left: 1px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 10px;
+	line-height: 18px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(0,0,0,1);
+}
+#Group_13 {
+	position: absolute;
+	width: 4px;
+	height: 4px;
+	left: 11px;
+	top: 57px;
+	overflow: visible;
+}
+#Ellipse_8 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 0px;
+}
+#Group_14 {
+	position: absolute;
+	width: 4px;
+	height: 54px;
+	left: 35px;
+	top: 746px;
+	overflow: visible;
+}
+#Ellipse_9 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_9 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_10 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 50px;
+}
+#Ellipse_11 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_11 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 35px;
+	top: 893px;
+}
+#Group_22 {
+	position: absolute;
+	width: 242px;
+	height: 164px;
+	left: 24px;
+	top: 389px;
+	overflow: visible;
+}
+#Group_7 {
+	position: absolute;
+	width: 242px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Title_b {
+	position: absolute;
+	width: 54px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Skills {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Line_1_ca {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_ca {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 1px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Skill_List {
+	position: absolute;
+	width: 218px;
+	height: 122px;
+	left: 24px;
+	top: 42px;
+	overflow: visible;
+}
+#React_RxJS_Dart_Nodejs_Python_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	height: 122px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Redux_Typescript_Flutter_Expre {
+	left: 119px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	height: 122px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Group_12 {
+	position: absolute;
+	width: 4px;
+	height: 112px;
+	left: 11px;
+	top: 48px;
+	overflow: visible;
+}
+#Ellipse_2 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 18px;
+}
+#Ellipse_3 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 36px;
+}
+#Ellipse_4 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 54px;
+}
+#Ellipse_5 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 72px;
+}
+#Ellipse_6 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 90px;
+}
+#Ellipse_1 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_7 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 108px;
+}
+#Ellipse_16 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_16 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 0px;
+}
+#Group_11 {
+	position: absolute;
+	width: 4px;
+	height: 112px;
+	left: 133px;
+	top: 48px;
+	overflow: visible;
+}
+#Ellipse_1_co {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_co {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_2_cp {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_cp {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 18px;
+}
+#Ellipse_3_cq {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3_cq {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 36px;
+}
+#Ellipse_4_cr {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4_cr {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 54px;
+}
+#Ellipse_5_cs {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_5_cs {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 72px;
+}
+#Ellipse_6_ct {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_6_ct {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 90px;
+}
+#Ellipse_7_cu {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_7_cu {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 108px;
+}
+#Group_15 {
+	position: absolute;
+	width: 431px;
+	height: 169px;
+	left: 338px;
+	top: 261px;
+	overflow: visible;
+}
+#Web_full_stack_developer {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	line-height: 23px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#DMart_Labs_Avenue_Supermarkets {
+	left: 1px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Octrober_2019_-_Present {
+	left: 0px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Managed_frontend_team_and_all_ {
+	left: 1px;
+	top: 62px;
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	height: 14px;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Created_application_developmen {
+	left: 1px;
+	top: 98px;
+	position: absolute;
+	overflow: visible;
+	width: 431px;
+	height: 33px;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Implemented_micro_frontend_wit {
+	left: 1px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 412px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Converted_DMart_India_website_ {
+	left: 1px;
+	top: 135px;
+	position: absolute;
+	overflow: visible;
+	width: 431px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Created_Hybrid_mobile_applicat {
+	left: 1px;
+	top: 155px;
+	position: absolute;
+	overflow: visible;
+	width: 285px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Group_17 {
+	position: absolute;
+	width: 430px;
+	height: 169px;
+	left: 339px;
+	top: 442px;
+	overflow: visible;
+}
+#Software_Enginner {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	line-height: 23px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Innoplexus_Consulting_Services {
+	left: 0px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#November_2017_-_October_2019 {
+	left: 0px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Lead_team_of_2_-_3_developers_ {
+	left: 0px;
+	top: 62px;
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	height: 14px;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Created_data_processing_pipeli {
+	left: 0px;
+	top: 98px;
+	position: absolute;
+	overflow: visible;
+	width: 431px;
+	height: 33px;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Created_API_services_from_scra {
+	left: 0px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 398px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Assisted_team_with_setting_up_ {
+	left: 0px;
+	top: 135px;
+	position: absolute;
+	overflow: hidden;
+	width: 431px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Created_query_builder_SDK_for_ {
+	left: 0px;
+	top: 155px;
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Group_18 {
+	position: absolute;
+	width: 431px;
+	height: 143px;
+	left: 338px;
+	top: 623px;
+	overflow: visible;
+}
+#CoFounder {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	line-height: 23px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Pole8 {
+	left: 1px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#June_2017_-_November_2019 {
+	left: 0px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Created_Django_application_whi {
+	left: 1px;
+	top: 58px;
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	height: 30px;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Created_Android_application_wh {
+	left: 1px;
+	top: 110px;
+	position: absolute;
+	overflow: hidden;
+	width: 431px;
+	height: 33px;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Worked_on_location_clustering_ {
+	left: 1px;
+	top: 92px;
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Group_19 {
+	position: absolute;
+	width: 433px;
+	height: 107px;
+	left: 339px;
+	top: 778px;
+	overflow: visible;
+}
+#Vritt {
+	left: 0px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#June_2016_-_June_2017 {
+	left: 0px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Created_crawlers_for_curating_ {
+	left: 0px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 431px;
+	height: 17px;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Integrated_NLP_data_processing {
+	left: 0px;
+	top: 56px;
+	position: absolute;
+	overflow: visible;
+	width: 434px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#CoFounder_dp {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	line-height: 23px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Created_a_website_using_Django {
+	left: 0px;
+	top: 91px;
+	position: absolute;
+	overflow: visible;
+	width: 431px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Group_20 {
+	position: absolute;
+	width: 6px;
+	height: 628.487px;
+	left: 322.5px;
+	top: 268.5px;
+	overflow: visible;
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 628.487px;
+	left: 3px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 7px;
+	height: 7px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 7px;
+	height: 7px;
+	left: 0px;
+	top: 182.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 7px;
+	height: 7px;
+	left: 0px;
+	top: 362.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 7px;
+	height: 7px;
+	left: 0px;
+	top: 518.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Title_dx {
+	position: absolute;
+	width: 139px;
+	height: 34px;
+	left: 314px;
+	top: 901px;
+	overflow: visible;
+}
+#Achivements {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Line_1_dz {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_dz {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 1px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Jedi_Knight_for_versatile_perf {
+	left: 339px;
+	top: 946px;
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Mentored_in_PyCamp_2K17 {
+	left: 339px;
+	top: 991px;
+	position: absolute;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Innoplexus_Consulting_Services_d {
+	left: 339px;
+	top: 965px;
+	position: absolute;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#PyCamp_2K17_-_Nagpur {
+	left: 339px;
+	top: 1013px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Group_24 {
+	position: absolute;
+	width: 139px;
+	height: 115px;
+	left: 24px;
+	top: 926px;
+	overflow: visible;
+}
+#Group_21 {
+	position: absolute;
+	width: 139px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Title_d {
+	position: absolute;
+	width: 87px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Intrests_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Line_1_d {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_d {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 1px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Online_Game__d {
+	left: 24px;
+	top: 47px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	height: 68px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Ellipse_17 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_17 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 9px;
+	top: 52px;
+}
+#Ellipse_18 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_18 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 9px;
+	top: 70px;
+}
+#Ellipse_19 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_19 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 9px;
+	top: 88px;
+}
+#Ellipse_20 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_20 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 33px;
+	top: 1032px;
+}
