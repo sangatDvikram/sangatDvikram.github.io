@@ -1,11 +1,12 @@
 .mediaViewInfo {
-	--web-view-name: Custom Size – 2;
-	--web-view-id: Custom_Size__2;
-	--web-scale-on-resize: true;
+	--web-view-name: Custom Size – 3;
+	--web-view-id: Custom_Size__3;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Custom_Size__2;
+	--web-view-ids: Custom_Size__3;
 }
 * {
 	margin: 0;
@@ -13,29 +14,30 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Custom_Size__2 {
+.Custom_Size__3_Class {
 	position: absolute;
-	width: 793.701px;
+	width: 800px;
 	height: 1122.52px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Custom Size – 2;
-	--web-view-id: Custom_Size__2;
-	--web-scale-on-resize: true;
+	--web-view-name: Custom Size – 3;
+	--web-view-id: Custom_Size__3;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-enable-deep-linking: true;
 }
-#Left_side {
-	fill: rgba(255,255,255,1);
+.Left_side_Class {
+	fill: rgba(44,44,44,1);
 }
 .Left_side {
 	position: absolute;
 	overflow: visible;
-	width: 289px;
+	width: 288px;
 	height: 1123px;
-	left: 0px;
-	top: 0px;
+	left: -1px;
+	top: -3px;
 }
-#Right_Side {
+.Right_Side_Class {
 	fill: transparent;
 }
 .Right_Side {
@@ -46,15 +48,15 @@
 	left: 289px;
 	top: 24px;
 }
-#Group_5 {
+.Group_5_Class {
 	position: absolute;
-	width: 347px;
-	height: 60px;
-	left: 314px;
-	top: 24px;
+	width: 331px;
+	height: 62px;
+	left: 312px;
+	top: 15px;
 	overflow: visible;
 }
-#Vikram_Sangat {
+.Vikram_Sangat_Class {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -68,13 +70,13 @@
 	font-size: 36px;
 	color: rgba(0,0,0,1);
 }
-#Web_full_stack_developer_-_Rea {
+.n_Full-stack_developer_-_React_Class {
 	opacity: 0.62;
-	left: 0px;
-	top: 43px;
+	left: 2px;
+	top: 45px;
 	position: absolute;
 	overflow: visible;
-	width: 348px;
+	width: 330px;
 	white-space: nowrap;
 	line-height: 18px;
 	margin-top: -2px;
@@ -85,15 +87,23 @@
 	font-size: 14px;
 	color: rgba(0,0,0,1);
 }
-#Title {
+.Group_31_Class {
 	position: absolute;
-	width: 72px;
-	height: 34px;
-	left: 314px;
+	width: 450px;
+	height: 133px;
+	left: 312px;
 	top: 90px;
 	overflow: visible;
 }
-#Profile {
+.Title_Class {
+	position: absolute;
+	width: 72px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Profile_Class {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -107,7 +117,7 @@
 	font-size: 26px;
 	color: rgba(0,0,0,1);
 }
-#Line_1 {
+.Line_1_Class {
 	fill: transparent;
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -125,9 +135,9 @@
 	top: 34px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#With_over_5_years_of_experienc {
-	left: 339px;
-	top: 132px;
+.With_over_5_years_of_experienc_Class {
+	left: 27px;
+	top: 47px;
 	position: absolute;
 	overflow: visible;
 	width: 424px;
@@ -141,72 +151,88 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#Mask_Group_1 {
+.Profile_Photo_Class {
 	position: absolute;
 	width: 152px;
-	height: 149px;
-	left: 69px;
-	top: 44px;
+	height: 152px;
+	left: 71px;
+	top: 24px;
 	overflow: visible;
 }
-#Group_6 {
+.Group_6_Class {
 	position: absolute;
-	width: 242px;
-	height: 150px;
+	width: 139.882px;
+	height: 112px;
 	left: 24px;
-	top: 220px;
+	top: 242px;
 	overflow: visible;
 }
-#Title_s {
+.Group_3_Class {
 	position: absolute;
-	width: 83px;
-	height: 34px;
-	left: 0px;
-	top: 0px;
+	width: 102.182px;
+	height: 18px;
+	left: 2.909px;
+	top: 94px;
 	overflow: visible;
 }
-#Contact {
-	left: 0px;
-	top: 0px;
+.Bangalore_India_Class {
+	left: 23.182px;
+	top: 2px;
 	position: absolute;
 	overflow: visible;
-	width: 84px;
+	width: 80px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Calibri;
 	font-style: normal;
-	font-weight: bold;
-	font-size: 26px;
-	color: rgba(0,0,0,1);
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
 }
-#Line_1_u {
-	fill: transparent;
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_1_u {
-	overflow: visible;
+.MDI__map-marker_Class {
 	position: absolute;
-	width: 36px;
-	height: 1px;
-	left: 0px;
-	top: 34px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Group_2 {
-	position: absolute;
-	width: 87.882px;
+	width: 12.6px;
 	height: 18px;
 	left: 0px;
-	top: 42px;
+	top: 0px;
 	overflow: visible;
 }
-#MDI__phone-outline {
-	opacity: 0.6;
+.Path__map-marker_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path__map-marker {
+	overflow: visible;
+	position: absolute;
+	width: 12.6px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Component_1__3_Class {
+	position: absolute;
+	width: 139.882px;
+	height: 18px;
+	left: 0px;
+	top: 68px;
+	overflow: visible;
+}
+.vsangat98gmailcom_Class {
+	left: 26.882px;
+	top: 2px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	text-decoration: underline;
+}
+.MDI__email-outline_Class {
 	position: absolute;
 	width: 18px;
 	height: 18px;
@@ -214,9 +240,9 @@
 	top: 0px;
 	overflow: visible;
 }
-#Boundary {
+.Boundary_Class {
 	opacity: 0;
-	fill: rgba(0,0,0,1);
+	fill: rgba(255,255,255,1);
 	stroke: rgba(0,0,0,0);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -232,56 +258,27 @@
 	left: 0px;
 	top: 0px;
 }
-#Path__phone-outline {
-	fill: rgba(0,0,0,1);
+.Path__email-outline_Class {
+	fill: rgba(255,255,255,1);
 }
-.Path__phone-outline {
+.Path__email-outline {
 	overflow: visible;
 	position: absolute;
-	width: 12px;
-	height: 12px;
-	left: 3px;
-	top: 3px;
+	width: 14px;
+	height: 10px;
+	left: 2px;
+	top: 4px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#n_503415652 {
-	left: 26.882px;
-	top: 2px;
+.Group_2_Class {
 	position: absolute;
-	overflow: visible;
-	width: 62px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Component_1__2 {
-	position: absolute;
-	width: 139.882px;
+	width: 87.882px;
 	height: 18px;
 	left: 0px;
-	top: 68px;
+	top: 42px;
 	overflow: visible;
 }
-#vsangat98gmailcom {
-	left: 26.882px;
-	top: 2px;
-	position: absolute;
-	overflow: visible;
-	width: 114px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#MDI__email-outline {
-	opacity: 0.6;
+.MDI__phone-outline_Class {
 	position: absolute;
 	width: 18px;
 	height: 18px;
@@ -289,9 +286,9 @@
 	top: 0px;
 	overflow: visible;
 }
-#Boundary_ {
+.Boundary__Class {
 	opacity: 0;
-	fill: rgba(0,0,0,1);
+	fill: rgba(251,251,251,1);
 	stroke: rgba(0,0,0,0);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -307,114 +304,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path__email-outline {
-	fill: rgba(0,0,0,1);
+.Path__phone-outline_Class {
+	fill: rgba(251,251,251,1);
 }
-.Path__email-outline {
-	overflow: visible;
-	position: absolute;
-	width: 14px;
-	height: 10px;
-	left: 2px;
-	top: 4px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Group_3 {
-	position: absolute;
-	width: 102.182px;
-	height: 18px;
-	left: 2.909px;
-	top: 94px;
-	overflow: visible;
-}
-#Bangalore_India {
-	left: 23.182px;
-	top: 1px;
-	position: absolute;
-	overflow: visible;
-	width: 80px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#MDI__map-marker {
-	opacity: 0.6;
-	position: absolute;
-	width: 12.6px;
-	height: 18px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Path__map-marker {
-	fill: rgba(0,0,0,1);
-}
-.Path__map-marker {
-	overflow: visible;
-	position: absolute;
-	width: 12.6px;
-	height: 18px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Group_4 {
-	position: absolute;
-	width: 241px;
-	height: 30px;
-	left: 1px;
-	top: 120px;
-	overflow: visible;
-}
-#httpswwwlinkedincominvikram-sa {
-	left: 24px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 218px;
-	height: 30px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#MDI__linkedin {
-	opacity: 0.6;
-	position: absolute;
-	width: 18px;
-	height: 18px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Boundary_bc {
-	opacity: 0;
-	fill: rgba(0,0,0,1);
-	stroke: rgba(0,0,0,0);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Boundary_bc {
-	position: absolute;
-	overflow: visible;
-	width: 18px;
-	height: 18px;
-	left: 0px;
-	top: 0px;
-}
-#Path__linkedin {
-	fill: rgba(0,0,0,1);
-}
-.Path__linkedin {
+.Path__phone-outline {
 	overflow: visible;
 	position: absolute;
 	width: 12px;
@@ -423,29 +316,43 @@
 	top: 3px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Title_be {
+.n_503415652_Class {
+	left: 26.882px;
+	top: 2px;
 	position: absolute;
-	width: 118px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.Title__Class {
+	position: absolute;
+	width: 83px;
 	height: 34px;
-	left: 314px;
-	top: 220px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
-#Experience {
+.Contact_Class {
 	left: 0px;
 	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 119px;
+	width: 84px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Calibri;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 26px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-#Line_1_bg {
+.Line_1_bb_Class {
 	fill: transparent;
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -454,7 +361,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_1_bg {
+.Line_1_bb {
 	overflow: visible;
 	position: absolute;
 	width: 36px;
@@ -463,15 +370,47 @@
 	top: 34px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Title_bh {
+.Group_33_Class {
+	position: absolute;
+	width: 242px;
+	height: 126px;
+	left: 24px;
+	top: 731px;
+	overflow: visible;
+}
+.System_and_method_for_determin_Class {
+	left: 24px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	height: 32px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.Group_26_Class {
+	position: absolute;
+	width: 242px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Title_bf_Class {
 	position: absolute;
 	width: 81px;
 	height: 34px;
-	left: 24px;
-	top: 689px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
-#Patents {
+.Patents_Class {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -483,9 +422,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 26px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-#Line_1_bj {
+.Line_1_bh_Class {
 	fill: transparent;
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -494,7 +433,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_1_bj {
+.Line_1_bh {
 	overflow: visible;
 	position: absolute;
 	width: 36px;
@@ -503,93 +442,13 @@
 	top: 34px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#System_and_method_for_determin {
-	left: 48px;
-	top: 741px;
+.Display_screen_with_transition_Class {
+	left: 24px;
+	top: 94px;
 	position: absolute;
 	overflow: visible;
 	width: 219px;
-	height: 31px;
-	line-height: 18px;
-	margin-top: -4px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 10px;
-	color: rgba(0,0,0,1);
-}
-#Display_screen_with_transition {
-	left: 48px;
-	top: 791px;
-	position: absolute;
-	overflow: visible;
-	width: 219px;
-	height: 31px;
-	line-height: 18px;
-	margin-top: -4px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 10px;
-	color: rgba(0,0,0,1);
-}
-#Group_9 {
-	position: absolute;
-	width: 241px;
-	height: 61px;
-	left: 24px;
-	top: 841px;
-	overflow: visible;
-}
-#Title_bn {
-	position: absolute;
-	width: 132px;
-	height: 34px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Certification {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 133px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 26px;
-	color: rgba(0,0,0,1);
-}
-#Line_1_bp {
-	fill: transparent;
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_1_bp {
-	overflow: visible;
-	position: absolute;
-	width: 36px;
-	height: 1px;
-	left: 0px;
-	top: 34px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Online_Game_ {
-	left: 24px;
-	top: 47px;
-	position: absolute;
-	overflow: visible;
-	width: 218px;
-	height: 14px;
+	height: 32px;
 	line-height: 18px;
 	margin-top: -3px;
 	text-align: left;
@@ -597,25 +456,17 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 12px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-#Group_23 {
+.Group_32_Class {
 	position: absolute;
 	width: 242px;
-	height: 98px;
+	height: 151px;
 	left: 24px;
-	top: 572px;
+	top: 560px;
 	overflow: visible;
 }
-#Group_8 {
-	position: absolute;
-	width: 242px;
-	height: 98px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Title_bt {
+.Group_8_Class {
 	position: absolute;
 	width: 107px;
 	height: 34px;
@@ -623,7 +474,15 @@
 	top: 0px;
 	overflow: visible;
 }
-#Education {
+.Title_bl_Class {
+	position: absolute;
+	width: 107px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Education_Class {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -635,9 +494,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 26px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-#Line_1_bv {
+.Line_1_bn_Class {
 	fill: transparent;
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -646,7 +505,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_1_bv {
+.Line_1_bn {
 	overflow: visible;
 	position: absolute;
 	width: 36px;
@@ -655,16 +514,16 @@
 	top: 34px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Education_bw {
+.Education_bo_Class {
 	position: absolute;
-	width: 218px;
+	width: 231px;
 	height: 45px;
-	left: 24px;
+	left: 11px;
 	top: 53px;
 	overflow: visible;
 }
-#Bachelor_of_Engineering_Comput {
-	left: 0px;
+.Bachelor_of_Engineering_Comput_Class {
+	left: 13px;
 	top: 0px;
 	position: absolute;
 	overflow: visible;
@@ -677,10 +536,10 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 12px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-#Jhulelal_Instutute_Of_technolo {
-	left: 1px;
+.Jhulelal_Institute_of_Technolo_Class {
+	left: 14px;
 	top: 18px;
 	position: absolute;
 	overflow: visible;
@@ -693,10 +552,10 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 10px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-#n_008-2012 {
-	left: 1px;
+.n_008-2012_Class {
+	left: 14px;
 	top: 35px;
 	position: absolute;
 	overflow: visible;
@@ -706,21 +565,21 @@
 	margin-top: -5px;
 	text-align: left;
 	font-family: Calibri;
-	font-style: italic;
-	font-weight: normal;
+	font-style: normal;
+	font-weight: bold;
 	font-size: 8px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-#Group_13 {
+.Group_13_Class {
 	position: absolute;
 	width: 4px;
 	height: 4px;
-	left: 11px;
-	top: 57px;
+	left: 0px;
+	top: 4px;
 	overflow: visible;
 }
-#Ellipse_8 {
-	fill: rgba(0,0,0,1);
+.Ellipse_8_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -736,16 +595,97 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_14 {
+.Education_bu_Class {
 	position: absolute;
-	width: 4px;
-	height: 54px;
-	left: 35px;
-	top: 746px;
+	width: 231px;
+	height: 45px;
+	left: 11px;
+	top: 106px;
 	overflow: visible;
 }
-#Ellipse_9 {
-	fill: rgba(0,0,0,1);
+.Master_of_Technology_CS_and_IT_Class {
+	left: 13px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 14px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.Vishwakarma_Institute_of_Techn_Class {
+	left: 14px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 13px;
+	line-height: 18px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.n_013-2015_Attended_degree_not_Class {
+	left: 14px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 10px;
+	line-height: 18px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 8px;
+	color: rgba(255,255,255,1);
+}
+.Group_13_by_Class {
+	position: absolute;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 4px;
+	overflow: visible;
+}
+.Ellipse_8_bz_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_8_bz {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 0px;
+	top: 0px;
+}
+.Group_14_Class {
+	position: absolute;
+	width: 4px;
+	height: 46px;
+	left: 35px;
+	top: 793px;
+	overflow: visible;
+}
+.Ellipse_9_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -761,8 +701,8 @@
 	left: 0px;
 	top: 0px;
 }
-#Ellipse_10 {
-	fill: rgba(0,0,0,1);
+.Ellipse_10_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -776,10 +716,10 @@
 	width: 4px;
 	height: 4px;
 	left: 0px;
-	top: 50px;
+	top: 42px;
 }
-#Ellipse_11 {
-	fill: rgba(0,0,0,1);
+.Ellipse_22_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -787,23 +727,23 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_11 {
+.Ellipse_22 {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
 	height: 4px;
-	left: 35px;
-	top: 893px;
+	left: 0px;
+	top: 42px;
 }
-#Group_22 {
+.Group_22_Class {
 	position: absolute;
 	width: 242px;
 	height: 164px;
 	left: 24px;
-	top: 389px;
+	top: 375px;
 	overflow: visible;
 }
-#Group_7 {
+.Group_7_Class {
 	position: absolute;
 	width: 242px;
 	height: 164px;
@@ -811,7 +751,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Title_b {
+.Title_b_Class {
 	position: absolute;
 	width: 54px;
 	height: 34px;
@@ -819,7 +759,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Skills {
+.Skills_Class {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -831,9 +771,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 26px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-#Line_1_ca {
+.Line_1_b_Class {
 	fill: transparent;
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -842,7 +782,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_1_ca {
+.Line_1_b {
 	overflow: visible;
 	position: absolute;
 	width: 36px;
@@ -851,7 +791,7 @@
 	top: 34px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Skill_List {
+.Skill_List_Class {
 	position: absolute;
 	width: 218px;
 	height: 122px;
@@ -859,7 +799,7 @@
 	top: 42px;
 	overflow: visible;
 }
-#React_RxJS_Dart_Nodejs_Python_ {
+.React_RxJS_Dart_Nodejs_Python__Class {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -873,9 +813,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 12px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-#Redux_Typescript_Flutter_Expre {
+.Redux_Typescript_Flutter_Expre_Class {
 	left: 119px;
 	top: 0px;
 	position: absolute;
@@ -889,9 +829,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 12px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-#Group_12 {
+.Group_12_Class {
 	position: absolute;
 	width: 4px;
 	height: 112px;
@@ -899,8 +839,8 @@
 	top: 48px;
 	overflow: visible;
 }
-#Ellipse_2 {
-	fill: rgba(0,0,0,1);
+.Ellipse_2_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -916,8 +856,8 @@
 	left: 0px;
 	top: 18px;
 }
-#Ellipse_3 {
-	fill: rgba(0,0,0,1);
+.Ellipse_3_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -933,8 +873,8 @@
 	left: 0px;
 	top: 36px;
 }
-#Ellipse_4 {
-	fill: rgba(0,0,0,1);
+.Ellipse_4_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -950,8 +890,8 @@
 	left: 0px;
 	top: 54px;
 }
-#Ellipse_5 {
-	fill: rgba(0,0,0,1);
+.Ellipse_5_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -967,8 +907,8 @@
 	left: 0px;
 	top: 72px;
 }
-#Ellipse_6 {
-	fill: rgba(0,0,0,1);
+.Ellipse_6_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -984,8 +924,8 @@
 	left: 0px;
 	top: 90px;
 }
-#Ellipse_1 {
-	fill: rgba(0,0,0,1);
+.Ellipse_1_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1001,8 +941,8 @@
 	left: 0px;
 	top: 0px;
 }
-#Ellipse_7 {
-	fill: rgba(0,0,0,1);
+.Ellipse_7_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1018,8 +958,8 @@
 	left: 0px;
 	top: 108px;
 }
-#Ellipse_16 {
-	fill: rgba(0,0,0,1);
+.Ellipse_16_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1035,7 +975,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_11 {
+.Group_11_Class {
 	position: absolute;
 	width: 4px;
 	height: 112px;
@@ -1043,8 +983,8 @@
 	top: 48px;
 	overflow: visible;
 }
-#Ellipse_1_co {
-	fill: rgba(0,0,0,1);
+.Ellipse_1_cm_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1052,7 +992,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_1_co {
+.Ellipse_1_cm {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -1060,8 +1000,8 @@
 	left: 0px;
 	top: 0px;
 }
-#Ellipse_2_cp {
-	fill: rgba(0,0,0,1);
+.Ellipse_2_cn_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1069,7 +1009,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_2_cp {
+.Ellipse_2_cn {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -1077,8 +1017,8 @@
 	left: 0px;
 	top: 18px;
 }
-#Ellipse_3_cq {
-	fill: rgba(0,0,0,1);
+.Ellipse_3_co_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1086,7 +1026,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_3_cq {
+.Ellipse_3_co {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -1094,8 +1034,8 @@
 	left: 0px;
 	top: 36px;
 }
-#Ellipse_4_cr {
-	fill: rgba(0,0,0,1);
+.Ellipse_4_cp_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1103,7 +1043,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_4_cr {
+.Ellipse_4_cp {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -1111,8 +1051,8 @@
 	left: 0px;
 	top: 54px;
 }
-#Ellipse_5_cs {
-	fill: rgba(0,0,0,1);
+.Ellipse_5_cq_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1120,7 +1060,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_5_cs {
+.Ellipse_5_cq {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -1128,8 +1068,8 @@
 	left: 0px;
 	top: 72px;
 }
-#Ellipse_6_ct {
-	fill: rgba(0,0,0,1);
+.Ellipse_6_cr_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1137,7 +1077,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_6_ct {
+.Ellipse_6_cr {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -1145,8 +1085,8 @@
 	left: 0px;
 	top: 90px;
 }
-#Ellipse_7_cu {
-	fill: rgba(0,0,0,1);
+.Ellipse_7_cs_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1154,7 +1094,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_7_cu {
+.Ellipse_7_cs {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -1162,15 +1102,63 @@
 	left: 0px;
 	top: 108px;
 }
-#Group_15 {
+.Group_30_Class {
 	position: absolute;
-	width: 431px;
-	height: 169px;
-	left: 338px;
-	top: 261px;
+	width: 464px;
+	height: 676px;
+	left: 312px;
+	top: 237px;
 	overflow: visible;
 }
-#Web_full_stack_developer {
+.Title_cu_Class {
+	position: absolute;
+	width: 118px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Experience_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+.Line_1_cw_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_cw {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 1px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_15_Class {
+	position: absolute;
+	width: 431px;
+	height: 188px;
+	left: 26px;
+	top: 39px;
+	overflow: visible;
+}
+.Web_full_stack_developer_Class {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -1186,7 +1174,7 @@
 	font-size: 18px;
 	color: rgba(0,0,0,1);
 }
-#DMart_Labs_Avenue_Supermarkets {
+.DMart_Labs_Avenue_Supermarkets_Class {
 	left: 1px;
 	top: 24px;
 	position: absolute;
@@ -1202,7 +1190,7 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#Octrober_2019_-_Present {
+.Octrober_2019_-_Present_Class {
 	left: 0px;
 	top: 40px;
 	position: absolute;
@@ -1218,29 +1206,14 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#Managed_frontend_team_and_all_ {
+.Managed_frontend_team_and_all__Class {
+	opacity: 0.8;
 	left: 1px;
 	top: 62px;
 	position: absolute;
 	overflow: visible;
-	width: 424px;
-	height: 14px;
-	line-height: 16px;
-	margin-top: -2px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Created_application_developmen {
-	left: 1px;
-	top: 98px;
-	position: absolute;
-	overflow: visible;
 	width: 431px;
-	height: 33px;
+	height: 126px;
 	line-height: 16px;
 	margin-top: -2px;
 	text-align: left;
@@ -1250,63 +1223,15 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#Implemented_micro_frontend_wit {
-	left: 1px;
-	top: 80px;
+.Group_17_Class {
 	position: absolute;
-	overflow: visible;
-	width: 412px;
-	white-space: nowrap;
-	line-height: 16px;
-	margin-top: -2px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Converted_DMart_India_website_ {
-	left: 1px;
-	top: 135px;
-	position: absolute;
-	overflow: visible;
-	width: 431px;
-	height: 16px;
-	line-height: 16px;
-	margin-top: -2px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Created_Hybrid_mobile_applicat {
-	left: 1px;
-	top: 155px;
-	position: absolute;
-	overflow: visible;
-	width: 285px;
-	white-space: nowrap;
-	line-height: 16px;
-	margin-top: -2px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Group_17 {
-	position: absolute;
-	width: 430px;
-	height: 169px;
-	left: 339px;
-	top: 442px;
+	width: 437px;
+	height: 172px;
+	left: 27px;
+	top: 241px;
 	overflow: visible;
 }
-#Software_Enginner {
+.Software_Enginner_Class {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -1322,7 +1247,7 @@
 	font-size: 18px;
 	color: rgba(0,0,0,1);
 }
-#Innoplexus_Consulting_Services {
+.Innoplexus_Consulting_Services_Class {
 	left: 0px;
 	top: 24px;
 	position: absolute;
@@ -1338,7 +1263,7 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#November_2017_-_October_2019 {
+.November_2017_-_October_2019_Class {
 	left: 0px;
 	top: 40px;
 	position: absolute;
@@ -1354,13 +1279,13 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#Lead_team_of_2_-_3_developers_ {
+.Lead_team_of_2_-_3_developers__Class {
 	left: 0px;
 	top: 62px;
 	position: absolute;
 	overflow: visible;
-	width: 424px;
-	height: 14px;
+	width: 438px;
+	height: 110px;
 	line-height: 16px;
 	margin-top: -2px;
 	text-align: left;
@@ -1370,79 +1295,15 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#Created_data_processing_pipeli {
-	left: 0px;
-	top: 98px;
+.Group_18_Class {
 	position: absolute;
-	overflow: visible;
-	width: 431px;
-	height: 33px;
-	line-height: 16px;
-	margin-top: -2px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Created_API_services_from_scra {
-	left: 0px;
-	top: 80px;
-	position: absolute;
-	overflow: visible;
-	width: 398px;
-	white-space: nowrap;
-	line-height: 16px;
-	margin-top: -2px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Assisted_team_with_setting_up_ {
-	left: 0px;
-	top: 135px;
-	position: absolute;
-	overflow: hidden;
-	width: 431px;
-	height: 16px;
-	line-height: 16px;
-	margin-top: -2px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Created_query_builder_SDK_for_ {
-	left: 0px;
-	top: 155px;
-	position: absolute;
-	overflow: visible;
-	width: 299px;
-	white-space: nowrap;
-	line-height: 16px;
-	margin-top: -2px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Group_18 {
-	position: absolute;
-	width: 431px;
-	height: 143px;
-	left: 338px;
-	top: 623px;
+	width: 437px;
+	height: 164px;
+	left: 27px;
+	top: 421px;
 	overflow: visible;
 }
-#CoFounder {
+.CoFounder_Class {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -1458,7 +1319,7 @@
 	font-size: 18px;
 	color: rgba(0,0,0,1);
 }
-#Pole8 {
+.Pole8_Class {
 	left: 1px;
 	top: 24px;
 	position: absolute;
@@ -1474,12 +1335,12 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#June_2017_-_November_2019 {
+.June_2017_-_November_2017_Class {
 	left: 0px;
 	top: 40px;
 	position: absolute;
 	overflow: visible;
-	width: 135px;
+	width: 136px;
 	white-space: nowrap;
 	line-height: 18px;
 	margin-top: -3px;
@@ -1490,13 +1351,13 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#Created_Django_application_whi {
+.Created_Django_application_whi_Class {
 	left: 1px;
 	top: 58px;
 	position: absolute;
 	overflow: visible;
-	width: 424px;
-	height: 30px;
+	width: 437px;
+	height: 106px;
 	line-height: 16px;
 	margin-top: -2px;
 	text-align: left;
@@ -1506,47 +1367,15 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#Created_Android_application_wh {
-	left: 1px;
-	top: 110px;
+.Group_19_Class {
 	position: absolute;
-	overflow: hidden;
-	width: 431px;
-	height: 33px;
-	line-height: 16px;
-	margin-top: -2px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Worked_on_location_clustering_ {
-	left: 1px;
-	top: 92px;
-	position: absolute;
-	overflow: visible;
-	width: 359px;
-	white-space: nowrap;
-	line-height: 16px;
-	margin-top: -2px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Group_19 {
-	position: absolute;
-	width: 433px;
-	height: 107px;
-	left: 339px;
-	top: 778px;
+	width: 437px;
+	height: 102px;
+	left: 27px;
+	top: 574px;
 	overflow: visible;
 }
-#Vritt {
+.Vritt_Class {
 	left: 0px;
 	top: 24px;
 	position: absolute;
@@ -1562,7 +1391,7 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#June_2016_-_June_2017 {
+.June_2016_-_June_2017_Class {
 	left: 0px;
 	top: 40px;
 	position: absolute;
@@ -1578,29 +1407,13 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#Created_crawlers_for_curating_ {
-	left: 0px;
-	top: 72px;
-	position: absolute;
-	overflow: visible;
-	width: 431px;
-	height: 17px;
-	line-height: 16px;
-	margin-top: -2px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Integrated_NLP_data_processing {
+.Integrated_NLP_data_processing_Class {
 	left: 0px;
 	top: 56px;
 	position: absolute;
 	overflow: visible;
-	width: 434px;
-	white-space: nowrap;
+	width: 438px;
+	height: 46px;
 	line-height: 16px;
 	margin-top: -2px;
 	text-align: left;
@@ -1610,7 +1423,7 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#CoFounder_dp {
+.CoFounder_dg_Class {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -1626,31 +1439,15 @@
 	font-size: 18px;
 	color: rgba(0,0,0,1);
 }
-#Created_a_website_using_Django {
-	left: 0px;
-	top: 91px;
-	position: absolute;
-	overflow: visible;
-	width: 431px;
-	height: 16px;
-	line-height: 16px;
-	margin-top: -2px;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 12px;
-	color: rgba(0,0,0,1);
-}
-#Group_20 {
+.Group_20_Class {
 	position: absolute;
 	width: 6px;
 	height: 628.487px;
-	left: 322.5px;
-	top: 268.5px;
+	left: 10.5px;
+	top: 46.5px;
 	overflow: visible;
 }
-#Line_2 {
+.Line_2_Class {
 	fill: transparent;
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1668,7 +1465,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_1 {
+.Path_1_Class {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1686,7 +1483,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2 {
+.Path_2_Class {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1701,10 +1498,10 @@
 	width: 7px;
 	height: 7px;
 	left: 0px;
-	top: 182.5px;
+	top: 203.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_3 {
+.Path_3_Class {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1719,10 +1516,10 @@
 	width: 7px;
 	height: 7px;
 	left: 0px;
-	top: 362.5px;
+	top: 383.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_4 {
+.Path_4_Class {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1737,18 +1534,26 @@
 	width: 7px;
 	height: 7px;
 	left: 0px;
-	top: 518.5px;
+	top: 536.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Title_dx {
+.Group_29_Class {
+	position: absolute;
+	width: 265px;
+	height: 126px;
+	left: 312px;
+	top: 926px;
+	overflow: visible;
+}
+.Title_do_Class {
 	position: absolute;
 	width: 139px;
 	height: 34px;
-	left: 314px;
-	top: 901px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
-#Achivements {
+.Achivements_Class {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -1762,7 +1567,7 @@
 	font-size: 26px;
 	color: rgba(0,0,0,1);
 }
-#Line_1_dz {
+.Line_1_dq_Class {
 	fill: transparent;
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1771,7 +1576,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_1_dz {
+.Line_1_dq {
 	overflow: visible;
 	position: absolute;
 	width: 36px;
@@ -1780,9 +1585,17 @@
 	top: 34px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Jedi_Knight_for_versatile_perf {
-	left: 339px;
-	top: 946px;
+.Group_27_Class {
+	position: absolute;
+	width: 238px;
+	height: 37px;
+	left: 27px;
+	top: 45px;
+	overflow: visible;
+}
+.Jedi_Knight_for_versatile_perf_Class {
+	left: 0px;
+	top: 0px;
 	position: absolute;
 	overflow: visible;
 	width: 239px;
@@ -1794,23 +1607,9 @@
 	font-size: 16px;
 	color: rgba(0,0,0,1);
 }
-#Mentored_in_PyCamp_2K17 {
-	left: 339px;
-	top: 991px;
-	position: absolute;
-	overflow: visible;
-	width: 175px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Calibri;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 16px;
-	color: rgba(0,0,0,1);
-}
-#Innoplexus_Consulting_Services_d {
-	left: 339px;
-	top: 965px;
+.Innoplexus_Consulting_Services_dt_Class {
+	left: 0px;
+	top: 23px;
 	position: absolute;
 	overflow: visible;
 	width: 182px;
@@ -1824,9 +1623,31 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#PyCamp_2K17_-_Nagpur {
-	left: 339px;
-	top: 1013px;
+.Group_28_Class {
+	position: absolute;
+	width: 174px;
+	height: 36px;
+	left: 27px;
+	top: 90px;
+	overflow: visible;
+}
+.Mentored_in_PyCamp_2K17_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.PyCamp_2K17_-_Nagpur_Class {
+	left: 0px;
+	top: 22px;
 	position: absolute;
 	overflow: visible;
 	width: 112px;
@@ -1840,15 +1661,15 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#Group_24 {
+.Group_35_Class {
 	position: absolute;
 	width: 139px;
 	height: 115px;
 	left: 24px;
-	top: 926px;
+	top: 977px;
 	overflow: visible;
 }
-#Group_21 {
+.Group_24_Class {
 	position: absolute;
 	width: 139px;
 	height: 115px;
@@ -1856,7 +1677,15 @@
 	top: 0px;
 	overflow: visible;
 }
-#Title_d {
+.Group_21_Class {
+	position: absolute;
+	width: 139px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Title_d_Class {
 	position: absolute;
 	width: 87px;
 	height: 34px;
@@ -1864,7 +1693,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Intrests_ {
+.Intrests__Class {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -1876,9 +1705,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 26px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-#Line_1_d {
+.Line_1_d_Class {
 	fill: transparent;
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1896,7 +1725,7 @@
 	top: 34px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Online_Game__d {
+.Online_Game__Class {
 	left: 24px;
 	top: 47px;
 	position: absolute;
@@ -1910,10 +1739,10 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 12px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
-#Ellipse_17 {
-	fill: rgba(0,0,0,1);
+.Ellipse_17_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1929,8 +1758,8 @@
 	left: 9px;
 	top: 52px;
 }
-#Ellipse_18 {
-	fill: rgba(0,0,0,1);
+.Ellipse_18_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1946,8 +1775,8 @@
 	left: 9px;
 	top: 70px;
 }
-#Ellipse_19 {
-	fill: rgba(0,0,0,1);
+.Ellipse_19_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1963,8 +1792,8 @@
 	left: 9px;
 	top: 88px;
 }
-#Ellipse_20 {
-	fill: rgba(0,0,0,1);
+.Ellipse_21_Class {
+	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -1972,11 +1801,339 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_20 {
+.Ellipse_21 {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
 	height: 4px;
-	left: 33px;
-	top: 1032px;
+	left: 9px;
+	top: 106px;
+}
+.Group_25_Class {
+	position: absolute;
+	width: 144px;
+	height: 24px;
+	left: 24px;
+	top: 198px;
+	overflow: visible;
+}
+.MDI__linkedin_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Boundary_ea_Class {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Boundary_ea {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+.Path__linkedin_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path__linkedin {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 3px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.MDI__github_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 60px;
+	top: 0px;
+	overflow: visible;
+}
+.Boundary_ed_Class {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Boundary_ed {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+.Path__github_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path__github {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 19.516px;
+	left: 2px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.MDI__web_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 120px;
+	top: 0px;
+	overflow: visible;
+}
+.Boundary_eg_Class {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Boundary_eg {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+.Path__web_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path__web {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 2px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.MDI__open-in-new_Class {
+	opacity: 0.6;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 235px;
+	top: 802px;
+	overflow: visible;
+}
+.Boundary_ej_Class {
+	opacity: 0;
+	fill: rgba(255,254,254,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Boundary_ej {
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+}
+.Path__open-in-new_Class {
+	fill: rgba(255,254,254,1);
+}
+.Path__open-in-new {
+	overflow: visible;
+	position: absolute;
+	width: 6px;
+	height: 6px;
+	left: 3px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.MDI__open-in-new_el_Class {
+	opacity: 0.6;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 193px;
+	top: 845px;
+	overflow: visible;
+}
+.Boundary_em_Class {
+	opacity: 0;
+	fill: rgba(255,254,254,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Boundary_em {
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+}
+.Path__open-in-new_en_Class {
+	fill: rgba(255,254,254,1);
+}
+.Path__open-in-new_en {
+	overflow: visible;
+	position: absolute;
+	width: 6px;
+	height: 6px;
+	left: 3px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.MDI__open-in-new_eo_Class {
+	opacity: 0.6;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 84px;
+	top: 945px;
+	overflow: visible;
+}
+.Boundary_ep_Class {
+	opacity: 0;
+	fill: rgba(255,254,254,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Boundary_ep {
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+}
+.Path__open-in-new_eq_Class {
+	fill: rgba(255,254,254,1);
+}
+.Path__open-in-new_eq {
+	overflow: visible;
+	position: absolute;
+	width: 6px;
+	height: 6px;
+	left: 3px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_34_Class {
+	position: absolute;
+	width: 241px;
+	height: 79px;
+	left: 24px;
+	top: 878px;
+	overflow: visible;
+}
+.Group_9_Class {
+	position: absolute;
+	width: 241px;
+	height: 79px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Title_et_Class {
+	position: absolute;
+	width: 132px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Certification_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+.Line_1_ev_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_ev {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 1px;
+	left: 0px;
+	top: 34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Online_Game__ew_Class {
+	left: 24px;
+	top: 47px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 32px;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.Ellipse_23_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_23 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 11px;
+	top: 53px;
 }
